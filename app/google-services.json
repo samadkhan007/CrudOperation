@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "347286645910",
+    "project_id": "crud-operation-6410f",
+    "storage_bucket": "crud-operation-6410f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347286645910:android:a2c196d4ef925110da66b7",
+        "android_client_info": {
+          "package_name": "edu.uol.mad.crudoperation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347286645910-hfs97tm22ehfjn62u7vc1pc1pnng2blr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCsToFIYI5GoioXtuMU753kz92i665dps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347286645910-hfs97tm22ehfjn62u7vc1pc1pnng2blr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
